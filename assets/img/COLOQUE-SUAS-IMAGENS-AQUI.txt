@@ -1,1 +1,0 @@
-Envie suas imagens na conversa. Depois, coloque os arquivos nesta pasta e atualize os caminhos no index.html conforme necessário.
