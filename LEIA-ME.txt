@@ -1,0 +1,25 @@
+SITE — 39.635.199 Leandro da Silva Pinto
+
+Estrutura:
+- index.html: página principal
+- sobre.html
+- politica-de-privacidade.html
+- politica-de-cookies.html
+- aviso-de-privacidade.html
+- direitos-lgpd.html
+- termos-de-uso.html
+- css/style.css
+- js/main.js
+
+Como testar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Publique todos os arquivos mantendo a estrutura de pastas.
+
+Importante:
+- O site está com ilustrações CSS provisórias; envie suas imagens para inserir as imagens reais.
+- Revise as informações cadastrais, contatos e atividade antes de publicar.
+- Os textos legais são modelos iniciais e precisam refletir os dados e ferramentas realmente utilizados pela empresa.
+- Se instalar Google Ads/Analytics, tags, pixels, formulários ou outros serviços, atualize a Política de Privacidade e Cookies e implemente consentimento compatível com a legislação aplicável.
+- Não há garantia de aprovação no Google Ads. A aprovação depende também da oferta, anúncios, destino, transparência e políticas vigentes da plataforma.
+- Bootstrap, Bootstrap Icons e fontes são carregados de CDNs externas neste modelo.
